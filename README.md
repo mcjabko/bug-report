@@ -2,6 +2,6 @@
 
 Jak psát bug reporty:
 
-#Název: Descriptivní krátký popis problému (A´t nějak hned vím vocogo)
+#Název: Descriptivní krátký popis problému (Ať nějak hned vím vocogo)
 
 #Zbytek: Detaily, co přesně se stalo, jak to funguje / nefunguje atp
